@@ -1,0 +1,2 @@
+# Verification environment
+Python3.12 standard library only. Install the interpreter externally; no interpreter/dependency tree is redistributed. Reader tests ran in the existing isolated local Python environment without network or experiment execution. Exact interpreter version is recorded in the private audit. Original Hardhat/ethers/solc environments belong to separately scoped original experiments and are not required by these numerical readers.
